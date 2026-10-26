@@ -1,4 +1,6 @@
-📌 Topics & Skills Covered:
+📌 Google Sheets Core Skills & Hands-On Exercises
+* Google Data Analytics Professional Certificate (Courses 3 & 4: Prepare & Process Data)
+
 - **Spreadsheet Basics:** Cells, ranges, formulas, absolute/relative cell references (`$`), and sorting data.
 - **Data Filtering:** Applying filters and conditional formatting to isolate specific data points.
 - **Data Cleaning:** Using `TRIM`, `REMOVE DUPLICATES`, text functions (`LEFT`, `RIGHT`, `CONCAT`), and `SPLIT`.
