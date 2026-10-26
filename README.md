@@ -1,4 +1,6 @@
-📌 Key Topics & Skills Covered
-- **Data Cleaning & Manipulation:** Using filters, conditional formatting, text functions, and logical statements (`IF`, `AND`, `OR`).
-- **Advanced Formulas & Lookups:** Extracting and cross-referencing data using `VLOOKUP`, `XLOOKUP`, `INDEX` + `MATCH`, and conditional aggregations (`SUMIFS`, `COUNTIFS`).
-- **Data Summarization:** Building dynamic Pivot Tables and summary metrics.
+📌 Topics & Skills Covered:
+- **Spreadsheet Basics:** Cells, ranges, formulas, absolute/relative cell references (`$`), and sorting data.
+- **Data Filtering:** Applying filters and conditional formatting to isolate specific data points.
+- **Data Cleaning:** Using `TRIM`, `REMOVE DUPLICATES`, text functions (`LEFT`, `RIGHT`, `CONCAT`), and `SPLIT`.
+- **Functions & Lookups:** Working with `SUM`, `AVERAGE`, `COUNT`, `COUNTIF`, `SUMIF`, and `VLOOKUP` for data joining.
+- **Data Organization:** Structuring dirty data into clean, formatted tables for analysis.
